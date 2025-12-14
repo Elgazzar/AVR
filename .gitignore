@@ -1,0 +1,32 @@
+# Atmel Studio User Option Files
+*.atsuo
+
+# Build Output Folders
+Debug/
+Release/
+
+# Build Artifacts
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+*.bin
+
+# Object Files
+*.o
+*.obj
+
+# Dependency Files
+*.d
+makedep.mk
+
+# Atmel Studio Backup Files
+*.bak
+*.tmp
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+Desktop.ini
